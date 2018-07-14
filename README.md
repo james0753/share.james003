@@ -3,6 +3,12 @@ please sharing
 
 **Bold line**
 
+~~~java
+public static main() {
+}
+~~~
+
+
 
 [link](http://www.naver.com)
 
