@@ -4,7 +4,11 @@ please sharing
 **Bold line**
 
 ~~~java
-public static main() {
+public static main(CString args) {
+  int index = 0;
+  
+  main() {
+  }
 }
 ~~~
 
