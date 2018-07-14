@@ -5,6 +5,11 @@ please sharing
 
 [link](http://www.naver.com)
 
-![link]()
+**Bold line**
+
+
+_italic text_
+
+![link](http://kostaworld.org/homepage_30th/board/gallery/AFRICA)
 
 
